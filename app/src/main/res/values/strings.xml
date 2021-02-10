@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">testAAR</string>
+    <string name="title_test">testing</string>
+</resources>

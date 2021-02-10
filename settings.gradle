@@ -1,0 +1,5 @@
+include ':unity'
+include ':test'
+include ':unity'
+include ':app'
+rootProject.name = "testAAR"
